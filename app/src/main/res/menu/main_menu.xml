@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/icon_home"
+        android:title="صفحه اصلی"
+        android:icon="@drawable/home_icon">
+    </item>
+    <item
+        android:id="@+id/list_app"
+        android:title="لیست برنامه ها"
+        android:icon="@drawable/view_list">
+    </item>
+</menu>

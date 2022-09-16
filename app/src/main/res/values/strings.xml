@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Battery manager</string>
+    <string name="info_title">check your battery state</string>
+    <string name="voltage">voltage</string>
+    <string name="cpu">technology</string>
+    <string name="plug">plug state</string>
+    <string name="thermometer">temperature</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
